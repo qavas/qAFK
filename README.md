@@ -1,4 +1,4 @@
-# OOC-Necessities
-A script that gives just one script for all out of character related things in FiveM (AFK, Chat, More)
+# qAFK
+A fully customizable AFK script that allows a person to go AFK, and get teleported to a place of no RP. Also includes a kick feature.
 
 ### Coming Soon
