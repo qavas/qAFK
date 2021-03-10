@@ -22,6 +22,5 @@ None, but this may not work on ESX or VRP.
 Look at my <a href"forum.fivem.net/">FiveM</a> post for more info.
 
 ## 🚶‍♂️ Authors
-<a href="https://github.com/qavas">qavas</a>
-<a href="https://github.com/apxtony">APxTony</a>
+<a href="https://github.com/qavas">qavas</a> and <a href="https://github.com/apxtony">APxTony</a>
 
