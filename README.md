@@ -8,7 +8,7 @@ A fully customizable AFK script that allows a person to go AFK, and get teleport
 None, but this may not work on ESX or VRP.
 
 ### 💻 Installing
-*more in-depth documentation on my <a href="https://qtprod.com/qafk">website</a>*
+*more in-depth documentation on my <a href="https://qtprod.com">website</a> **SOON***
 
 1. Add the resource to your resources folder (Must be named qAFK or it wont work.)
 
@@ -19,7 +19,7 @@ None, but this may not work on ESX or VRP.
 4. Once this is done, load it up, and have fun.
 
 ## ✨ Includes
-Look at my <a href"forum.fivem.net/">FiveM</a> post for more info.
+Look at my <a href"https://forum.cfx.re/t/release-standalone-qafk/2381764">FiveM</a> post for more info.
 
 ## 🚶‍♂️ Authors
 <a href="https://github.com/qavas">qavas</a> and <a href="https://github.com/apxtony">APxTony</a>
