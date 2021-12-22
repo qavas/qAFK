@@ -65,13 +65,13 @@ Citizen.CreateThread(function()
 		if currentPlayerCoords == oldPlayerCoords then
 			if time > 0 then
 				if time == math.ceil(Config.afktimeAllowed / 2) then
-					TriggerEvent("chatMessage", "[AFK WARNING]", {255, 0, 0}, "You'll be kicked in " .. time .. " seconds for being AFK!")
+					TriggerEvent("chatMessage", "[AFK WARNING]", {255, 0, 0}, "Sie werden in " .. time .. " sekunden in den AFK modus gesetzt!")
 			    end
 				if time == math.ceil(Config.afktimeAllowed / 3) then
-					TriggerEvent("chatMessage", "[AFK WARNING]", {255, 0, 0}, "You'll be kicked in " .. time .. " seconds for being AFK!")
+					TriggerEvent("chatMessage", "[AFK WARNING]", {255, 0, 0}, "In  " .. time .. " sekunden beginnt für sie der AFK modus!")
 			    end
 				if time == math.ceil(Config.afktimeAllowed / 6) then
-					TriggerEvent("chatMessage", "[AFK WARNING]", {255, 0, 0}, "You'll be kicked in " .. time .. " seconds for being AFK!")
+					TriggerEvent("chatMessage", "[AFK WARNING]", {255, 0, 0}, "In " .. time .. " sekunden sind sie im AFK modus!")
 			    end
 			    time = time - 1
 			else
